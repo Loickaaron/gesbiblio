@@ -1,0 +1,29 @@
+{
+  "filieres": [
+    {
+      "id": "f876"
+    }
+  ],
+  "niveauEtudes": [
+    {
+      "id": "bda8"
+    }
+  ],
+  "anneeAcademiques": [
+    {
+      "id": "111",
+      "code": "02",
+      "libelle": "2024-2026"
+    },
+    {
+      "id": "1111",
+      "code": "10",
+      "libelle": "2023-24"
+    },
+    {
+      "id": "11111",
+      "code": "18",
+      "libelle": "2020-2021"
+    }
+  ]
+}

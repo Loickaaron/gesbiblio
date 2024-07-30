@@ -1,0 +1,10 @@
+installer nodejs
+npm install -g @angular/cli@16
+npm i -g json-server
+-------------------------------------
+ng new gessoutenance
+npm i
+ng serve
+ng g c filiere
+ng g c anneeacademique
+ng g c niveauetude
